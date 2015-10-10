@@ -1,2 +1,2 @@
 # dotfiles
-configs
+different configs
