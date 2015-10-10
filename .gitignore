@@ -1,0 +1,6 @@
+.DS_Store
+.Trashes
+.idea
+Thumbs.db
+*.sublime-project
+*.sublime-workspace

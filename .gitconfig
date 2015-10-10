@@ -1,0 +1,6 @@
+[user]
+    email = {USER_EMAIL}
+    name = {USER_NAME}
+[core]
+    excludesfile = ~/.gitignore
+    filemode = false
