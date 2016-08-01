@@ -4,3 +4,6 @@
 [core]
     excludesfile = ~/.gitignore
     filemode = false
+    autocrlf = input
+[push]
+	default = simple
